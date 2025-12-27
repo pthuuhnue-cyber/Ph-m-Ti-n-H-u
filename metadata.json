@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SafeChat Analysis",
+  "description": "A safety analysis tool for chat logs and screenshots, identifying potential risks based on visual cues and content analysis.",
+  "requestFramePermissions": []
+}
